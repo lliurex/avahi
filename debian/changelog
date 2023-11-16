@@ -1,3 +1,9 @@
+avahi (0.8-10lliurex1) focal; urgency=medium
+
+  * Focal backport
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Thu, 16 Nov 2023 09:15:51 +0100
+
 avahi (0.8-10ubuntu1) mantic; urgency=medium
 
   * Merge with Debian unstable (LP: #2020383). Remaining changes:
